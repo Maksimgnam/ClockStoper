@@ -1,0 +1,29 @@
+.Footer {
+    width: 40%;
+    height: 30vh;
+    background-color: green;
+    border-radius: 20px;
+
+
+
+}
+
+button {
+    width: 340px;
+    height: 70px;
+    border-radius: 10px;
+    border: none;
+    font-size: 35px;
+    font-family: 'Rubik Iso', cursive;
+    background-color: black;
+    color: green;
+    position: relative;
+    top: 10px;
+}
+
+h1 {
+    font-size: 90px;
+
+    font-weight: 600;
+    font-family: 'Rubik Iso', cursive
+}
